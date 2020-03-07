@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResposibility.Async", "ChainOfResposibility.Async\ChainOfResposibility.Async.csproj", "{AF606BDB-7483-4F37-AE2F-35324E886D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility.WebApi", "ChainOfResponsibility.WebApi\ChainOfResponsibility.WebApi.csproj", "{8795A8D5-5EE1-4C30-8113-56B7AFC556A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF606BDB-7483-4F37-AE2F-35324E886D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF606BDB-7483-4F37-AE2F-35324E886D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF606BDB-7483-4F37-AE2F-35324E886D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF606BDB-7483-4F37-AE2F-35324E886D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8795A8D5-5EE1-4C30-8113-56B7AFC556A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8795A8D5-5EE1-4C30-8113-56B7AFC556A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8795A8D5-5EE1-4C30-8113-56B7AFC556A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8795A8D5-5EE1-4C30-8113-56B7AFC556A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

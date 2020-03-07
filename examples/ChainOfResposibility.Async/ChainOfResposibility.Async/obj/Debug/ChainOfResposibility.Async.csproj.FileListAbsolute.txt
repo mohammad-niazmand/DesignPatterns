@@ -1,0 +1,1 @@
+E:\Me\Project\Books\Design Patterns\Design Patterns In C# 5.0.SourceCodes\examples\ChainOfResposibility.Async\ChainOfResposibility.Async\bin\Debug\ChainOfResposibility.Async.exe.config
